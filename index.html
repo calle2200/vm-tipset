@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VM-tipset 2026 · Leaderboard</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand"><span class="ball">🏆</span>VM-tipset 2026</div>
+      <nav class="main">
+        <a href="index.html" class="active">Leaderboard</a>
+        <a href="facit.html">Facit</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="update-bar" id="update-bar">
+    <span class="dot-live"></span>
+    Senast uppdaterad: <span id="last-updated">…</span>
+  </div>
+
+  <main>
+    <h1>Leaderboard</h1>
+
+    <table id="leaderboard">
+      <thead>
+        <tr>
+          <th class="lb-rank">#</th>
+          <th>Spelare</th>
+          <th>Golden Boot</th>
+          <th class="num hide-sm">Matcher</th>
+          <th class="num hide-sm">Grupper</th>
+          <th class="num hide-sm">Special</th>
+          <th class="num">Totalt</th>
+        </tr>
+      </thead>
+      <tbody><!-- fylls av JS --></tbody>
+    </table>
+
+    <h2>Spelare</h2>
+    <div class="cards" id="player-cards"><!-- fylls av JS --></div>
+  </main>
+
+  <footer class="site-footer">
+    <span class="ft-brand">VM-tipset 2026</span>
+    <span class="ft-sep">·</span>
+    <span>Made by <strong>CL</strong></span>
+  </footer>
+
+  <script src="js/config.js"></script>
+  <script src="js/facit.js"></script>
+  <script src="js/players.js"></script>
+  <script src="js/scoring.js"></script>
+  <script src="js/leaderboard-page.js"></script>
+  <script src="js/last-updated.js"></script>
+</body>
+</html>
