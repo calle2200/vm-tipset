@@ -6,6 +6,7 @@
 //  special: winner = mästaren, top4 = ALLA 4 i topp 4 (mästare + 2:a/3:a/4:a),
 //           goldenBoot, mostAssists, mostGoalsCountry, bestKeeper, firstGoal.
 //           Skriv exakt samma stavning som spelarna använt.
+
 // ============================================================
 
 const FACIT = {
