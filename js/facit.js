@@ -12,7 +12,7 @@ const FACIT = {
   matches: {
     A1: { score: "2-0" },
     A2: { score: "2-1" },
-    B1: { score: "1-1" },
+    A2: { score: "1-1" },
   },
   groups: {
 
