@@ -14,6 +14,7 @@ const FACIT = {
     A1: { score: "2-0" },
     A2: { score: "2-1" },
     B1: { score: "1-1" },
+    C1: { score: "4-1" },
   },
   groups: {
 
