@@ -22,7 +22,7 @@ const FACIT = {
     E1: { score: "7-1" },
     F1: { score: "2-2" },
     E2: { score: "1-0" },
-    F2: { scoee: "5-1" },
+    F2: { score: "5-1" },
     
   },
   groups: {
