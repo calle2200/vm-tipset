@@ -56,7 +56,9 @@ const FACIT = {
     I4: { score: "3-2" },
     J4: { score: "1-2" },
     K3: { score: "5-0" },
-    
+    L3: { score: "0-0" },
+    L4: { score: "0-1" },
+    K4: { score: "1-0" },
   },
   groups: {
 
