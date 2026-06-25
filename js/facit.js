@@ -67,6 +67,7 @@ const FACIT = {
     A6: { score: "0-3" },
   },
   groups: {
+    A: [ "Mexiko", "Sydafrika", "Sydkorea", "Tjeckien" ],
 
   },
   special: {
