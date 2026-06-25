@@ -68,6 +68,9 @@ const FACIT = {
   },
   groups: {
     A: [ "Mexiko", "Sydafrika", "Sydkorea", "Tjeckien" ],
+    B: [ "Schweiz", "Kanada", "Bosnien&Her", "Qatar" ],
+
+    D: [ "Brasilien", "Marocko", "Skottland", "Haiti" ],
 
   },
   special: {
