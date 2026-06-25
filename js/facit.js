@@ -59,6 +59,8 @@ const FACIT = {
     L3: { score: "0-0" },
     L4: { score: "0-1" },
     K4: { score: "1-0" },
+    B5: { score: "2-1" },
+    B6: { score: "3-1" },
   },
   groups: {
 
