@@ -65,12 +65,20 @@ const FACIT = {
     D6: { score: "0-3" },
     A5: { score: "1-0" },
     A6: { score: "0-3" },
+    E5: { score: "0-2" },
+    E6: { score: "2-1" },
+    F5: { score: "1-3" },
+    F6: { score: "1-1" },
+    C5: { score: "3-2" },
+    C6: { score: "0-0" },
   },
   groups: {
     A: [ "Mexiko", "Sydafrika", "Sydkorea", "Tjeckien" ],
     B: [ "Schweiz", "Kanada", "Bosnien&Her", "Qatar" ],
-
+    C: [ "USA", "Australien", "Paraguay", "Turkiet" ],
     D: [ "Brasilien", "Marocko", "Skottland", "Haiti" ],
+    E: [ "Tyskland", "Elfenbenskusten", "Ecuador", "Curaçao" ],
+    F: [ "Nederländerna", "Japan", "Sverige", "Tunisien" ],
 
   },
   special: {
