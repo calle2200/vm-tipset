@@ -77,6 +77,12 @@ const FACIT = {
     G6: { score: "0-1" },
     H5: { score: "1-5" },
     H6: { score: "1-1" },
+    L5: { score: "0-2" },
+    L6: { score: "2-1" },
+    K5: { score: "0-0" },
+    K6: { score: "3-1" },
+    J5: { score: "3-3" },
+    J6: { score: "1-3" },
   },
   groups: {
     A: [ "Mexiko", "Sydafrika", "Sydkorea", "Tjeckien" ],
