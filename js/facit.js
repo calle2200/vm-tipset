@@ -94,6 +94,9 @@ const FACIT = {
     G: [ "Spanien", "Kap Verde", "Uruguay", "Saudiarabien" ],
     H: [ "Belgien", "Egypten", "Iran", "Nya Zeeland" ],
     I: [ "Frankrike", "Norge", "Senegal", "Irak" ],
+    J: [ "Argentina", "Österrike", "Algeriet", "Jordanien" ],
+    K: [ "Colombia", "Portugal", "DR Kongo", "Uzbekistan" ],
+    L: [ "England", "Kroatien", "Ghana", "Panama" ],
   },
   special: {
     firstGoal: "Mexico",
